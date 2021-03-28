@@ -1,0 +1,10 @@
+[package]
+name = "charset_change"
+version = "0.1.0"
+authors = ["gaopanfeng <gaopanfeng1987@126.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+encoding = "0.2"
